@@ -1,0 +1,16 @@
+# System directories
+bin/
+etc/
+include/
+.ipynb_checkpoints/
+lib*/
+lib*
+share/
+
+# System files
+pip-selfcheck.json
+pyvenv.cfg
+
+# Output files
+out/
+*.pdf
